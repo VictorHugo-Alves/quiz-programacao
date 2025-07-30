@@ -18,7 +18,19 @@ Este projeto consiste na implementação de um **Quiz Interativo sobre Conhecime
 
 ## Como Executar o Projeto
 
-Para visualizar e interagir com o quiz em sua máquina local, siga os passos abaixo:
+Você pode executar o projeto de duas formas:
+
+---
+
+### 1. Acessar Online (Recomendado)
+
+O projeto já está hospedado:
+
+[Clique aqui para acessar o Quiz de Programação](https://quiz-programacao-basico.netlify.app/)
+
+---
+
+### 💻 2. Rodar Localmente
 
 1.  **Pré-requisitos:**
     * Um navegador web como Google Chrome, Mozilla Firefox, Microsoft Edge, etc. instalado em seu computador.
@@ -38,6 +50,7 @@ Para visualizar e interagir com o quiz em sua máquina local, siga os passos aba
     Após clonar ou descompactar, navegue até a pasta onde os arquivos do projeto foram salvos (ex: `C:\SeuCaminho\quiz-programacao\`).
     * Localize o arquivo HTML principal do quiz (geralmente `index.html` ou `quiz.html`).
     * Dê um duplo clique neste arquivo HTML. Ele será aberto automaticamente em seu navegador padrão.
+
 
 ## Desafios e Aprendizados
 
